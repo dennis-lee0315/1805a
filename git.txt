@@ -1,1 +1,2 @@
 hello git
+modify the file of git.txt
